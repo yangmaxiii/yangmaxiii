@@ -20,12 +20,12 @@ I'm a passionate crypto trader dedicated to building innovative solutions and co
 </p>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptobeta001&theme=bear" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangmaxiii&theme=bear" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cryptobeta001&show_icons=true&theme=bear" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptobeta001&layout=compact&theme=bear" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yangmaxiii&show_icons=true&theme=bear" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangmaxiii&layout=compact&theme=bear" />
 </p>
 
 ---
