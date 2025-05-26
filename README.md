@@ -1,8 +1,7 @@
-![image](https://github.com/user-attachments/assets/8cef6853-4d70-4d36-abc8-ea643fc2f55b)# 👋 Hello, I'm Cryptobeta!
+# 👋 Hello, I'm Yangmaxiii!
 
-I'm a passionate developer dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
+I'm a passionate crypto trader dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
 
-> Explore more in my repos!
 
 ## 🛠️ Tech Stack
 
