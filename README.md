@@ -1,7 +1,18 @@
-# 👋 Hello, I'm Yangmaxiii!
+---
+# 👋 Hello, I'm Yang!
 
-I'm a passionate crypto trader dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
+Hi there! I'm a proud mother of Fraise, a little bundle of joy who keeps my heart full and my hands busy. I'm also what you'd call a “dragon mom” — fiercely protective, deeply loving, and always ready to level up. I share a love for NFT games with my husband (our bonding time is half strategy, half laughter), and nothing brings me more joy than playing 'cooking cooking' with my daughter in our mini kitchen world. Thanks to my husband's influence, I've also dived into the world of crypto trading — learning the charts, riding the waves, and loving the challenge. Life is a wild, beautiful mix of family, fun, and finance — and I wouldn't have it any other way
 
+---
+
+## 🚀 What I do
+
+* NFT collector
+* Playing NFT games with my husband
+* Running blockchain nodes and testnets
+* Exploring decentralized networks and technologies
+* Constantly learning and improving my blockchain skills
+* Taking care of my daughter and husband is my top priority
 
 ## 🛠️ Tech Stack
 
