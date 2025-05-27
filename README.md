@@ -19,10 +19,8 @@ Hi there! I'm a proud mother of Fraise, a little bundle of joy who keeps my hear
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ---
 📊 Github Stats,
